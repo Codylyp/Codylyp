@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yipeng Liu, you can call me Cody.
-- 👀 I’m interested in Machine Learing and Computer Vision.
-- 🌱 I’m currently learning Point Completion Neural Network and 3D Model Reconstruction.
-- 💞️ I’m looking to collaborate on any Machine Learing and Computer Vision project.
+- 👀 I’m interested in full-stack development, machine learning, and data analysis.
+- 🌱 I’m currently learning front-end development.
+- 💞️ I’m looking to collaborate on any machine learning and web development project.
 - 📫 You can contact me through email: yipenglliu@gmail.com
 
 <!---
